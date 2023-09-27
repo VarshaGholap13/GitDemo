@@ -14,4 +14,7 @@ public class CheckEvenOdd
 			System.out.println("Number is Odd");
 	
 	}
+public method()
+{
+}
 }
